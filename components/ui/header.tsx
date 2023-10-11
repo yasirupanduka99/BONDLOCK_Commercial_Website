@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import MobileMenu from './mobile-menu'
 import Image from 'next/image'
 
 import LogoWhite from '@/public/images/BONDLOCK_White.svg'
@@ -16,8 +15,6 @@ export default function Header() {
               <Image src={LogoWhite} width={200} alt="Features 01" />
             </Link>
           </div>
-          <MobileMenu />
-
         </div>
       </div>
     </header>

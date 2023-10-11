@@ -12,8 +12,9 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">What Our Users Are Saying</h2>
+            <p className="text-xl text-gray-400">At BONDLOCK, we value the thoughts and experiences of our users. 
+            Here's a glimpse of what some of our satisfied clients have to say about their journey with our virtual wedding planning system.</p>
           </div>
 
           {/* Testimonials */}
@@ -29,9 +30,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— BONDLOCK turned my wedding planning into a fun and stress-free adventure. I was able to visualize my dream wedding look, from the perfect bridal gown to stunning jewelry. It's like having a personal stylist at your fingertips!</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Senuri</cite> <cite className="text-purple-600 not-italic">Nilaksha</cite>
               </div>
             </div>
 
@@ -45,9 +46,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— The venue decoration options are incredible. I could see exactly how different styles and color palettes would fit our chosen venue. It made decision-making a breeze, and our wedding turned out just as we had envisioned.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Dulaj</cite> <cite className="text-purple-600 not-italic">Thiwanka</cite> 
               </div>
             </div>
 
@@ -61,9 +62,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— As someone deeply connected to our culture and traditions, I appreciate how BONDLOCK respects and enhances our heritage. The poruwa and settee back decoration preview was a game-changer, allowing us to maintain our customs while adding a modern touch.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Sithika</cite> <cite className="text-purple-600">Ravinddit</cite>
               </div>
             </div>
 
