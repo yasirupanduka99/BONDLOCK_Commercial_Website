@@ -16,7 +16,6 @@ export default function Header() {
               <Image src={LogoWhite} width={200} alt="Features 01" />
             </Link>
           </div>
-
           <MobileMenu />
 
         </div>
