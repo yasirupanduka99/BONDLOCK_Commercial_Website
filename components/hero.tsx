@@ -20,7 +20,7 @@ export default function Hero() {
         </div>
 
         {/* Hero content */}
-        <div className="relative pt-32 pb-10 md:pt-40 md:pb-16">
+        <div className="relative pt-32 pb-10 md:pt-20 md:pb-16">
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
@@ -37,7 +37,7 @@ export default function Hero() {
             thumb={VideoThumb}
             thumbWidth={1024}
             thumbHeight={576}
-            thumbAlt="Modal video thumbnail"
+            thumbAlt="Demo Video"
             video="/videos/video.mp4"
             videoWidth={1920}
             videoHeight={1080} />
