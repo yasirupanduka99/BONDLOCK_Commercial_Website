@@ -2,7 +2,7 @@
 
 ![Open React / Next.js template preview](https://user-images.githubusercontent.com/2683512/231426532-c71f4291-4813-401b-a569-ada47fe13efa.png)
 
-**Open** is a **free React / Next.js landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
+Wedding apparel and venue design are critical components of generating lasting memories. Our **"BONDLOCK"** virtual wedding planning system with augmented reality provides a one-of-a-kind experience. Couples may select personalized apparel, try it on, and make an informed choice for their wedding day. This approach also provides grooms with assistance in selecting the best attire for their body type. The couple's design selections set the tone for these unforgettable moments, and we incorporate traditional features such as the Poruwa ritual. This procedure is made easier and more enjoyable by augmented reality and 3D modeling.
 
 Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
 
