@@ -30,7 +30,7 @@ We are an enthusiastic group of final-year Sri Lanka Institute of Information Te
 
 Our project represents the final chapter of our academic experience at SLIIT. We've spent years honing our talents in information technology, research, and invention, preparing us for this huge task. We are delighted to bridge the gap between academics and real-world applications as we stand on the edge of the future.
 
-We dedicated our hearts and minds to resulting in a cutting-edge solution for our 4th-year final project. We feel that our project BONDLOCK has the potential to change the way you think about dreamed weddings based on technology. 
+We dedicated our hearts and minds to resulting in a cutting-edge solution for our 4th-year final project. We feel that our project B💍NDL🌼CK has the potential to change the way you think about dreamed weddings based on technology. 
 
 Created and maintained with ❤️ by [Team Pascal's]().![Team Poster](https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/39a12317-b4be-4780-b28a-3221ab2bbc4c)
 
