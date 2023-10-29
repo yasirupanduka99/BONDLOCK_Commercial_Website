@@ -23,7 +23,7 @@ export default function Footer() {
               </li>
               <li className="ml-4">
                 <Link href="/" className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-10 hover:bg-purple-300 rounded-full transition duration-150 ease-in-out" aria-label="Linkedin">
-                  <Image className="w-8 h-8 fill-current" src={whatsapp} xmlns="http://www.w3.org/2000/svg"/>
+                  <Image className="w-8 h-8 fill-current" src={whatsapp} alt='whatsapp'/>
                 </Link>
               </li>
               <li className="ml-4">
