@@ -1,6 +1,10 @@
 # BONDLOCK
 
-![Open React / Next.js template preview](https://user-images.githubusercontent.com/2683512/231426532-c71f4291-4813-401b-a569-ada47fe13efa.png)
+<img width="194" alt="Splash" src="https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/c0fe5dd2-3eb0-4e5b-a36f-078f0b735d50">
+<img width="194" alt="Home" src="https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/1786337b-ffb0-4ceb-8f9e-cee49443b24f">
+<img width="194" alt="Bride Gallery" src="https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/edfb81de-77b6-4968-b156-c9b54f5e7f31">
+<img width="194" alt="Screenshot 2023-10-29 at 19 29 27" src="https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/56937483-4193-44df-ade7-7cee045794fa">
+<img width="194" alt="Screenshot 2023-10-29 at 19 30 12" src="https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/877fbcbf-3dd8-48de-89bf-3fde686b96ba">
 
 Wedding apparel and venue design are critical components of generating lasting memories. Our **"B💍NDL🌼CK"** virtual wedding planning system with augmented reality provides a one-of-a-kind experience. Couples may select personalized apparel, try it on, and make an informed choice for their wedding day. This approach also provides grooms with assistance in selecting the best attire for their body type. The couple's design selections set the tone for these unforgettable moments, and we incorporate traditional features such as the Poruwa ritual. This procedure is made easier and more enjoyable by augmented reality and 3D modeling.
 
@@ -32,7 +36,9 @@ Our project represents the final chapter of our academic experience at SLIIT. We
 
 We dedicated our hearts and minds to resulting in a cutting-edge solution for our 4th-year final project. We feel that our project B💍NDL🌼CK has the potential to change the way you think about dreamed weddings based on technology. 
 
-Created and maintained with ❤️ by [Team Pascal's]().![Team Poster](https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/39a12317-b4be-4780-b28a-3221ab2bbc4c)
+Created and maintained with ❤️ by [Team Pascal's]().
+
+![Team Poster](https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/39a12317-b4be-4780-b28a-3221ab2bbc4c)
 
 ### Modifying the code
 
@@ -47,6 +53,8 @@ yarn dev
 # or
 pnpm dev
 ```
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
