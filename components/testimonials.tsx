@@ -64,7 +64,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— As someone deeply connected to our culture and traditions, I appreciate how BONDLOCK respects and enhances our heritage. The poruwa and settee back decoration preview was a game-changer, allowing us to maintain our customs while adding a modern touch.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Sithika</cite> <cite className="text-purple-600">Ravinddit</cite>
+                <cite className="text-gray-200 not-italic">Sithika</cite> <cite className="text-purple-600 not-italic">Ravinddit</cite>
               </div>
             </div>
 
