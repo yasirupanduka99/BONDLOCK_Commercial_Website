@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import MobileMenu from './mobile-menu'
 import Image from 'next/image'
 
 import LogoWhite from '@/public/images/BONDLOCK_White.svg'
@@ -13,11 +12,9 @@ export default function Header() {
           <div className="shrink-0 mr-4">
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
-              <Image src={LogoWhite} width={200} alt="Features 01" />
+              <Image src={LogoWhite} width={200} alt="LOGO" />
             </Link>
           </div>
-          <MobileMenu />
-
         </div>
       </div>
     </header>

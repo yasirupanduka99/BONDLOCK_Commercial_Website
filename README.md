@@ -2,32 +2,41 @@
 
 ![Open React / Next.js template preview](https://user-images.githubusercontent.com/2683512/231426532-c71f4291-4813-401b-a569-ada47fe13efa.png)
 
-**Open** is a **free React / Next.js landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
+Wedding apparel and venue design are critical components of generating lasting memories. Our **"B💍NDL🌼CK"** virtual wedding planning system with augmented reality provides a one-of-a-kind experience. Couples may select personalized apparel, try it on, and make an informed choice for their wedding day. This approach also provides grooms with assistance in selecting the best attire for their body type. The couple's design selections set the tone for these unforgettable moments, and we incorporate traditional features such as the Poruwa ritual. This procedure is made easier and more enjoyable by augmented reality and 3D modeling.
 
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
+## Stay in the loop
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
+Use it to plan your dream day, <APK>, and be sure to reach us out on [(https://chat.whatsapp.com/E62wmmEiz3xCnOZW7myIaZ)] if you have any comments or guidance.
 
-*Version 1.0.0 built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0).*
-*Version 2.0.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/open-react-template/releases/tag/2.0.3).*
+## Our all-inclusive Wedding Planning Services
 
-## Live demo
+1. Accurate Planning
+2. Cost-Effectiveness
+3. AR Enhancements
+4. Time & Stress Management
+5. Personalized Wedding
+6. Easy Management
 
-Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
+## One product, unlimited solutions
 
-## Open PRO
+1. Auto-personalized Female Model with an Ideal Outfit 👰‍♀️
+2. Auto-personalized Male Model with an Ideal Outfit 🤵
+3. Table Decorations and Door Decorations for a Certain Venue 💐🪑
+4. Create a Preview of Poruwa and Settee Back Decorations 🛋️🌹
 
-[![Open Pro](https://user-images.githubusercontent.com/2683512/151177673-e56ade57-c98d-4c37-b315-d313bd14bb53.png)](https://cruip.com/)
+## About Us
 
-## Design files
+We are an enthusiastic group of final-year Sri Lanka Institute of Information Technology (SLIIT) (https://www.sliit.lk/) students starting on an exciting adventure in the realms of technology and innovation. Our objective is to bring our study project to life, and we're excited to talk with you about it.
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/401KSUS
+Our project represents the final chapter of our academic experience at SLIIT. We've spent years honing our talents in information technology, research, and invention, preparing us for this huge task. We are delighted to bridge the gap between academics and real-world applications as we stand on the edge of the future.
 
-## Usage
+We dedicated our hearts and minds to resulting in a cutting-edge solution for our 4th-year final project. We feel that our project B💍NDL🌼CK has the potential to change the way you think about dreamed weddings based on technology. 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Created and maintained with ❤️ by [Team Pascal's]().![Team Poster](https://github.com/yasirupanduka99/BONDLOCK_Commercial_Website/assets/87335559/39a12317-b4be-4780-b28a-3221ab2bbc4c)
 
-### Getting Started
+### Modifying the code
+
+# Getting Started
 
 First, run the development server:
 
@@ -38,53 +47,6 @@ yarn dev
 # or
 pnpm dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-### Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-### Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-
-### Support notes
-This template has been developed with the App Router (`app`) and React Server Components. If you’re unfamiliar with these beta features, you can find more information about them on the Next.js beta documentation page. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
-
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
-
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2023 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).

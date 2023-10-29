@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'BONDLOCK',
+  description: 'Virtual Wedding Planning System with Augmented Reality',
 }
 
 import Hero from '@/components/hero'
