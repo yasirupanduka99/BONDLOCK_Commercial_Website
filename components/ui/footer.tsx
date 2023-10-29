@@ -36,7 +36,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; <Link href=''>Team Pascal's.</Link> 2023. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; <Link href='https://mysliit-my.sharepoint.com/:i:/g/personal/it20049218_my_sliit_lk/EdelbOTXYkJHgaOahsCBAPMBA217Vwy6i4QX_qmZoDwBgA?e=ObUNMH' target='_blank'>Team Pascal's.</Link> 2023. All rights reserved.</div>
 
           </div>
 
