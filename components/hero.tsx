@@ -2,6 +2,7 @@ import VideoThumb from '@/public/images/hero-image-01.jpg'
 import ModalVideo from '@/components/modal-video'
 
 export default function Hero() {
+  
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
@@ -33,16 +34,25 @@ export default function Hero() {
             </div>
           </div>
 
-          <ModalVideo
+          {/* <ModalVideo
             thumb={VideoThumb}
             thumbWidth={1024}
             thumbHeight={576}
             thumbAlt="Demo Video"
             video="/videos/video.mp4"
             videoWidth={1920}
-            videoHeight={1080} />
+            videoHeight={1080} /> */}
 
-        </div>
+          <ModalVideo
+            thumb={VideoThumb}
+            thumbWidth={1024}
+            thumbHeight={576}
+            thumbAlt="Demo Video"
+            video="https://www.youtube.com/embed/7LTAMpsFn0E?si=x_uJfgVkylHsJYuy&amp;autoplay=1&controls=0"
+            videoWidth={1080}
+            videoHeight={640} />
+
+          </div>
 
       </div>
     </section>
