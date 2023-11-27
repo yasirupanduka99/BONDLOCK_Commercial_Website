@@ -1,0 +1,15 @@
+#docDiv{
+    border: 3px solid #5c00c5;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#docDiv:hover{
+    background-color: #5c00c5;
+    box-shadow: 0px 0px 10px #5c00c5;
+}
+
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

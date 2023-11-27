@@ -15,6 +15,9 @@ export default function Header() {
               <Image src={LogoWhite} width={200} alt="LOGO" />
             </Link>
           </div>
+          <Link href="/" className="block" aria-label="Cruip">
+            <h1>Research Documentations</h1>
+          </Link>
         </div>
       </div>
     </header>
