@@ -10,6 +10,7 @@ import Zigzag from '@/components/zigzag'
 import Testimonials from '@/components/testimonials'
 import Documentations from '@/components/documents'
 import Domain from '@/components/domain'
+import Team from '@/components/team'
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Zigzag />
       <Domain/>
       <Documentations />
+      <Team/>
       <Testimonials />
       <Newsletter />
     </>
